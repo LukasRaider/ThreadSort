@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\bin\Debug\ThreadSort.exe.config
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\bin\Debug\ThreadSort.exe
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\bin\Debug\ThreadSort.pdb
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.Form2.resources
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.Form1.resources
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.exe
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.pdb
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.Form3.resources
