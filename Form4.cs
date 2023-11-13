@@ -4,31 +4,36 @@ using System.Windows.Forms;
 
 namespace ThreadSort
 {
-    public class Form3 : Form
+    public class Form4 : Form
     {
         int rowWidth = 400;
         int rowHeight = 20;
         int spaceBetweenRows = 10;
-        int numberOfProgressBar = 15; // Počet ProgressBar prvků
-        int value = 5;
-
-        public Form3()
+        //int numberOfProgressBar = 15; // Počet ProgressBar prvků
+        //int value = 5;
+        public Form4(int[] field)
         {
-            for (int i = 1;i<= numberOfProgressBar; i++) {
+            ProgressBar[] pBars = new ProgressBar[field.Length];
 
-                ProgressBar pBar = new ProgressBar();
+           
 
-                pBar.Value = value * i;
-                pBar.Location = new Point(10, (spaceBetweenRows + rowHeight) * i);
+            for (int i = 0;i< field.Length; i++) {
+
+                 pBars[i] = new ProgressBar();
+
+
+                //zavolat
+                //pBar.Value = value * i;
+                pBars[i].Value = field[i];
+
+                pBars[i].Location = new Point(10, (spaceBetweenRows + rowHeight) * i);
         
-                pBar.Name = "pBar" + i;
-                pBar.Size = new Size(rowWidth, rowHeight);
+                pBars[i].Name = "pBar" + i;
+                pBars[i].Size = new Size(rowWidth, rowHeight);
                 
-                Controls.Add(pBar);
+                Controls.Add(pBars[i]);
 
-               
-
-                int clientHeight = (rowHeight + spaceBetweenRows) * numberOfProgressBar + spaceBetweenRows + rowHeight;
+                int clientHeight = (rowHeight + spaceBetweenRows) * field.Length + spaceBetweenRows + rowHeight;
                 int clientWidth = rowWidth + 2 * spaceBetweenRows; // Přidáme okraje vlevo a vpravo
 
                 ClientSize = new Size(clientWidth, clientHeight);

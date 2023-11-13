@@ -10,3 +10,6 @@ C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\T
 C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.exe
 C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.pdb
 C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.Form3.resources
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.Form5.resources
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.Form4.resources
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadSort\obj\Debug\ThreadSort.Form6.resources
